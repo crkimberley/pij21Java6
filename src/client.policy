@@ -1,0 +1,3 @@
+grant codeBase "file:/Users/crk/x/pij21Java6/out/production/pij21Java6/" {
+	permission java.security.AllPermission;
+};
